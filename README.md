@@ -3,4 +3,4 @@
 * [https://openmedialegalhack.github.io/NYC](https://openmedialegalhack.github.io/NYC)
 
 
-* NYC.legalhackathon.org
+## NYC.legalhackathon.org
